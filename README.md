@@ -1,1 +1,1 @@
-# WK6-Project1
+# WK6-MiniProject
